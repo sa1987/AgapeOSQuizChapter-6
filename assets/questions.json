@@ -1,14 +1,14 @@
 [
     {
-      "question": "Which of the following is/are not FAIR principles?",
-      "choice1": "Findable & Accessible",
-      "choice2": "Accessible & Reproducible",
-      "choice3": "Identifiable & Reproducible",
-      "choice4": "Reproducible & Findable",
+      "question": "Which of the following is NOT a FAIR principle?",
+      "choice1": "Findable",
+      "choice2": "Accessible",
+      "choice3": "Identifiable",
+      "choice4": "Reusable",
       "answer": 3
     },
     {
-      "question": "Which of the following statements is true?'?",
+      "question": "Which of the following statements is true?",
       "choice1": "Metadata should be determined at the beginning of the project to provide guidelines for the process.",
       "choice2": "Understanding the purpose of a file is a good way to start when you try to decide the format for file preserving.",
       "choice3": "PID (persistent identifier) includes DOI, ORCID, ISBN, URL, etc.",
@@ -19,9 +19,17 @@
       "question": "If you want to find out about a specific author, the most effective way is to search by:",
       "choice1": "ORCID",
       "choice2": "URL",
-      "choice3": "DQI",
+      "choice3": "DOI",
       "choice4": "ARKs",
       "answer": 1
+    },
+	{
+      "question": "Which type of metadata is NOT the relevant to the FAIR principles:",
+      "choice1": "Descriptive metadata",
+      "choice2": "Structural metadata",
+      "choice3": "Administrative metadata",
+      "choice4": "Indicative metadata",
+      "answer": 4
     },
     {
       "question": "Jane is conducting a research project that employs quantitative data without any personal or confidential information. How can she draw up a data management plan that is FAIR?",
@@ -30,13 +38,5 @@
       "choice3": "Hire someone externally to write the data management plan.",
       "choice4": "Delegate the job to one of her collaborators.",
       "answer": 1
-    },
-    {
-      "question": " this is a place holder questions",
-      "choice1": "msgBox('Hello World');",
-      "choice2": "alertBox('Hello World');",
-      "choice3": "msg('Hello World');",
-      "choice4": "alert('Hello World');",
-      "answer": 4
     }
   ]
